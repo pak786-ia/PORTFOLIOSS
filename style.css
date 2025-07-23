@@ -167,7 +167,7 @@ color: black;
 
 }
  
-@media screen and (max-width:1500px){
+@media screen and (max-width:1080*2400px){
     .navlist{
     flex-direction: column;
     justify-content: center;
